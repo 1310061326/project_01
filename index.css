@@ -1,0 +1,8 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(101, 241, 160);
+    color: rgb(255, 0, 234);
+    line-height: 100px;
+    font-weight: 700;
+}
